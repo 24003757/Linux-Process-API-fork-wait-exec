@@ -93,7 +93,7 @@ Test the C Program for the desired output.
     }
 ```
 
-##OUTPUT
+## OUTPUT
 
 <img width="844" height="712" alt="Screenshot from 2025-09-22 10-49-14" src="https://github.com/user-attachments/assets/fa1cdabb-7115-4b4b-b60e-668be1d1a5fc" />
 
