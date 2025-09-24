@@ -68,7 +68,7 @@ Test the C Program for the desired output.
     }
 ```
 
-##OUTPUT
+## OUTPUT
 
 
 
